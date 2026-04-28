@@ -2,7 +2,7 @@
 
 <p align="left">
   <img 
-    src="https://streak-stats.demolab.com?user=mariconnn&theme=radical&hide_border=false&border_radius=8&background=15111F&stroke=FFFFFF&ring=FF69B4&fire=FF69B4&currStreakNum=FFF176&sideNums=FF69B4&currStreakLabel=FFF176&sideLabels=FF69B4&dates=FFFFFF" 
+    src="https://streak-stats.demolab.com?user=Mariconnn&theme=radical&hide_border=false&border_radius=8&background=15111F&stroke=FFFFFF&ring=FF69B4&fire=FF69B4&currStreakNum=FFF176&sideNums=FF69B4&currStreakLabel=FFF176&sideLabels=FF69B4&dates=FFFFFF" 
     width="600"
     alt="GitHub Streak Stats" 
   />
