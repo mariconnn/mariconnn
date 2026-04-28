@@ -10,7 +10,7 @@
 
 <p align="left">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=false&border_color=FFFFFF&bg_color=15111F&title_color=FF69B4&text_color=FFFFFF" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariconnn&layout=compact&theme=radical&hide_border=false&border_color=FFFFFF&bg_color=15111F&title_color=FF69B4&text_color=FFFFFF" 
     width="420"
     alt="Most Used Languages" 
   />
