@@ -1,16 +1,23 @@
-## Hi there 👋
+# Full-stack Developer
 
-<!--
-**mariconnn/mariconnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img 
+    src="https://streak-stats.demolab.com?user=mariconnn&theme=radical&hide_border=false&border_radius=8&background=15111F&stroke=FFFFFF&ring=FF69B4&fire=FF69B4&currStreakNum=FFF176&sideNums=FF69B4&currStreakLabel=FFF176&sideLabels=FF69B4&dates=FFFFFF" 
+    width="600"
+    alt="GitHub Streak Stats" 
+  />
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=false&border_color=FFFFFF&bg_color=15111F&title_color=FF69B4&text_color=FFFFFF" 
+    width="420"
+    alt="Most Used Languages" 
+  />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages and Tools:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,php,js,html,css,tailwind,bootstrap,react,django,nodejs,python,mysql,git,github,vscode" />
+</p>
