@@ -1,23 +1,50 @@
-# Full-stack Developer
+<h1 align="center">Hi, I'm Maricon 👋</h1>
 
-<p align="left">
+<h3 align="center">Full-stack Developer</h3>
+
+<p align="center">
+  I enjoy building web applications, learning backend development, and improving my skills through real-world projects.
+</p>
+
+---
+
+## About Me
+
+- Currently learning and improving my skills in full-stack development
+- Interested in web development, backend APIs, and UI/UX improvements
+- Building projects using JavaScript, React, Python, Django, PHP, and MySQL
+- Always open to learning new technologies and improving my coding practices
+
+---
+
+## GitHub Stats
+
+<p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=Mariconnn&theme=radical&hide_border=false&border_radius=8&background=15111F&stroke=FFFFFF&ring=FF69B4&fire=FF69B4&currStreakNum=FFF176&sideNums=FF69B4&currStreakLabel=FFF176&sideLabels=FF69B4&dates=FFFFFF" 
+    src="https://streak-stats.demolab.com?user=mariconnn&theme=tokyonight&hide_border=true&border_radius=10" 
     width="600"
     alt="GitHub Streak Stats" 
   />
 </p>
 
-<p align="left">
+<p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariconnn&layout=compact&theme=radical&hide_border=false&border_color=FFFFFF&bg_color=15111F&title_color=FF69B4&text_color=FFFFFF" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariconnn&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" 
     width="420"
     alt="Most Used Languages" 
   />
 </p>
 
-## Languages and Tools:
+---
 
-<p align="left">
+## Languages and Tools
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,php,js,html,css,tailwind,bootstrap,react,django,nodejs,python,mysql,git,github,vscode" />
+</p>
+
+---
+
+<p align="center">
+  <i>“Keep learning, keep building.”</i>
 </p>
