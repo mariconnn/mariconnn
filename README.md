@@ -40,7 +40,7 @@
 ## Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,csharp,php,js,html,css,tailwind,bootstrap,react,django,nodejs,python,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,php,js,html,css,tailwind,bootstrap,react,django,nodejs,python,mysql,git,github,vscode" />
 </p>
 
 ---
